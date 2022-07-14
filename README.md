@@ -1,7 +1,7 @@
 # 校友录(alumni record) 
 
 [![AppVeyor](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg)](https://github.com/blackist/ar)
-[![](https://img.shields.io/badge/spring-4.2.0-blue.svg)]()
+[![](https://img.shields.io/badge/spring-4.2.0-blue.svg)](https://landray.zhongbiao001.com/sys/profile/index.jsp#modeling/application)
 [![](https://img.shields.io/badge/jdk-1.8-blue.svg)]()
 [![](https://img.shields.io/badge/mybatis-3.3.0-blue.svg)]()
 [![](https://img.shields.io/badge/mysql-5.1.20-blue.svg)]()
